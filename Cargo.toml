@@ -1,0 +1,12 @@
+[package]
+name = "imui"
+version = "0.0.1"
+authors = [ "Jingkai Mao <oammix@gmail.com>" ]
+repository = "https://github.com/shawnscode/imui"
+description = "A tiny immediate mode user interface library written in Rust."
+readme = "README.md"
+license = "Apache-2.0"
+keywords = ["game-dev", "gui", "ui", "immediate mode"]
+categories = ["game-engines", "multimedia", "gui"]
+
+[dependencies]
